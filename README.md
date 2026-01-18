@@ -58,13 +58,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sia-Le-Blanc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+<img src="https://github-readme-stats.vercel.app/api?username=Sia-Le-Blanc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sia-Le-Blanc&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sia-Le-Blanc&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sia-Le-Blanc&theme=tokyonight&hide_border=true&background=1a1b27)
+<img src="https://streak-stats.demolab.com/?user=Sia-Le-Blanc&theme=tokyonight" alt="GitHub Streak" />
 
-</div>>
+</div>
 
 ---
 
