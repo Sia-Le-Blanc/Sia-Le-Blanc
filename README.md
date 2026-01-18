@@ -58,11 +58,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sia-Le-Blanc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sia-Le-Blanc&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sia-Le-Blanc&layout=compact&theme=tokyonight" alt="Top Languages" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sia-Le-Blanc&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sia-Le-Blanc&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com/?user=Sia-Le-Blanc&theme=tokyonight" alt="GitHub Streak" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sia-Le-Blanc&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sia-Le-Blanc&theme=tokyonight)
 
 </div>
 
