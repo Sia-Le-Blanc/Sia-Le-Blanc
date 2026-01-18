@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sia_Le_Blanc</h1>
-<h3 align="center">AI와 웹 기술을 실무에 적용하며, 깊이를 더해가는 개발자입니다</h3>
+<h3 align="center">AI와 웹/앱 기술을 실무에 적용하며, 깊이를 더해가는 개발자입니다</h3>
 
 ---
 
