@@ -58,11 +58,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sia-Le-Blanc&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sia-Le-Blanc&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sia-Le-Blanc&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sia-Le-Blanc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sia-Le-Blanc&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sia-Le-Blanc&theme=tokyonight&hide_border=true&background=1a1b27)
+
+</div>>
 
 ---
 
